@@ -1,6 +1,6 @@
 def square_array(array)
-array.each do |number|
-  number ** 2
-new array << numbner
-end
-end
+  new_array = []
+   array.each do |num|
+     num  ** 2
+  end 
+end 
